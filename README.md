@@ -1,8 +1,4 @@
-<h3 align="center" font-size="28px">
-      Full Stack Developer 💙🔥
-</h3>
-
-Hey 👋 My name is Jairo Tunisse, and I'm 23 years old. I currently work as a third sergeant for the Brazilian Air Force in the IT section of the School of Aeronautics Specialists. I also have 4 years of experience in web development, working on freelance projects with ReactJs and NextJs. I've been studying programming since I was 15 years old and know NodeJs, BunJS, Docker, and i can develop Full Stack systems using JavaScript.
+Full Stack Developer | 8 years of experience in JavaScript and the React ecosystem, combining a solid background in Computer Engineering with 6 years of IT infrastructure experience in the Brazilian Air Force. Front-end specialist with React, Next.js, and TypeScript, with proven expertise in back-end development (Node.js, MongoDB, Firebase) and API integration. Founder of a software house with a portfolio of SaaS products and custom projects. Results-driven professional with experience in network monitoring (Zabbix/Grafana), process automation, and technical leadership in high-scale environments (+1,000 machines).
 
 ## Technologies
 <br>
